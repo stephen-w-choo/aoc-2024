@@ -1,0 +1,25 @@
+# Ignore for Python
+__pycache__/
+
+# Ignore for Bun/TS
+node_modules/
+tsconfig.json
+package.json
+bun.lockb
+
+# Ignore Gradle 
+.gradle
+gradlew
+gradlew.bat
+build
+.idea
+build.gradle.kts
+settings.gradle.kts
+gradle/
+
+.env
+
+*/input.txt
+*/input1.txt
+*/input2.txt
+*/test-input.txt
