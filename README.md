@@ -3,9 +3,9 @@ Solutions for AOC 2024, with boilerplate generators for Python, TypeScript and K
 
 ## Generating templates
 
-"Usage: python3 setup_solution.py <day_number> <py|ts|kt>"
+Usage: `python3 setup_solution.py <day_number> <py|ts|kt>`
 
-eg "python3 setup_solution.py 3 kt"
+eg `python3 setup_solution.py 3 kt`
 
 setup_solution.py will generate templates and boilerplate for each day in either Python, TS or Kotlin. 
 
@@ -16,27 +16,5 @@ The Kotlin templates will generate a .kts Kotlin scripting file, rather than a s
 ## Current progress
 
  - [x] Day 1 - Python
- - [x] Day 2 - TypeScript
- - [x] Day 3 - Kotlin
- - [x] Day 4 - Python
- - [x] Day 5 - TypeScript
- - [x] Day 6 - Kotlin
- - [x] Day 7 - TypeScript   
- - [x] Day 8 - TypeScript   
- - [x] Day 9 - TypeScript    <---------- (The five day streak in TS was because I needed to practice TS for an interview)
- - [x] Day 10 - TypeScript  
- - [x] Day 11 - TypeScript  
- - [x] Day 12 - Python - part 1 only - I have not missed dynamic programming
- - [x] Day 13 - Kotlin
- - [x] Day 14 - TypeScript
- - [x] Day 15 - Kotlin
- - [x] Day 16 - Python
- - [ ] Day 17 - TypeScript - oh god I've forgotten Djikstra's
- - [ ] Day 18 
- - [ ] Day 19 
- - [ ] Day 20 
- - [ ] Day 21
- - [ ] Day 22 - Python
- - [ ] Day 23
- - [ ] Day 24 
- - [ ] Day 25 
+ - [] Day 2 - TypeScript
+ 
